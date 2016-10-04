@@ -1,0 +1,14 @@
+title: Bruno Gabriel dos Santos
+description: Github page
+author: Bruno Gabriel
+logo: /static/img/profile.jpeg
+github: https://github.com/brunogabriel
+about: System Analyst and Mobile/Web Developer
+disqus_shortname: brunogabrieldossantos
+enableTags: true
+tagarray: []
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]
