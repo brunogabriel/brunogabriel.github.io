@@ -6,7 +6,7 @@ permalink: /resume/
 
 Bruno Gabriel dos Santos
 ============
-bruno.gsantos89@gmail.com
+[bruno.gsantos89@gmail.com](mailto:bruno.gsantos89@gmail.com)
 
 
 Educação
@@ -50,14 +50,14 @@ Análise, levantamento e estruturação da necessidade de clientes em modelo fre
 Desenvolvimento de aplicativos móveis (Apps) para as plataformas Android  e iOS utilizando recursos avançados e bibliotecas utilitárias, destaques:
 
 * Android: 
-	* Google Cloud Message (GCM – Servidor de Push);
+	* Google Cloud Message (GCM – Push Notifications);
 	* In-App Purchase (adição de elementos consumíveis e não consumíveis para compras);
 	* UI/UX;
-	* Uso de: Volley, Retrofit (incluindo RxJava), Picasso, Glide, Fresco Lib, ButterKnife, AsyncHttp Request, Bolts, AndEngine, GSON, SimpleXML Serialization, CardView, RecyclerView, ZBar, ZXing, bibliotecas gráficas, Mapas, Gráficos, GreenDAO, Realm etc.;
+	* Uso contínuo de: Volley, Retrofit (incluindo RxJava), Picasso, Glide, Fresco Lib, ButterKnife, AsyncHttp Request, Bolts, AndEngine, GSON, SimpleXML Serialization, CardView, RecyclerView, ZBar, ZXing, bibliotecas gráficas, Mapas, Gráficos, GreenDAO, Realm etc.;
 	* Integrações com redes sociais.
 * iOS: 
-	* Integração com redes sociais, incluindo uso do Fabric;
-	* Uso de: AFNetworking, iCarousel, MBProgressHUD, SDWebImage, Alamofire etc.
+	* Integração com redes sociais, incluindo ferramentas presentes no Fabric (Analytics e Twitter SDK);
+	* Uso de: AFNetworking, iCarousel, MBProgressHUD, SDWebImage, Alamofire, Cocoapods etc.
 * Experiências adicionais: contribuição no desenvolvimento de APIs Restful voltadas para integração por aplicações móveis, controle de versionamento de código (GIT) etc.
 
 ----------
@@ -66,11 +66,11 @@ Desenvolvimento de aplicativos móveis (Apps) para as plataformas Android  e iOS
 
 Investigação de construção de Inteligência Coletiva a partir de aplicações para telefones celulares e smartphones (plataforma Android) com foco no [Projeto Maritaca](http://maritaca.unifesp.br).
 
-* Parser de conteúdo XML (eXtensible Markup Language) gerado por formulários;
+* Engine para interpretação de formuários gerados por conteúdo XML;
 * Processamento de códigos de barras (ZXing);
 * Uso de Google Maps;
 * Mongodb;
-* Apache Cassandra (pouco uso);
+* Apache Cassandra;
 * Participação de Congressos e submissão de artigos científicos.
 
 ----------
@@ -129,8 +129,7 @@ This paper presents the architecture of Maritaca Project, an infrastructure for 
 Abstract:
 The usage of mobile devices is growing rapidly. Actually, it is increasingly common to use digital forms for mobile data acquisition using mobile devices (smartphones and tablets). This paper presents the project Maritaca, an
 open solution for create mobile applications to data gathering using Android
-mobile devices. By using the platform, no programming skill is needed to create the mobile applications. Moreover, the platform facilitates the sharing of the
-collected data in the cloud, thus allowing the formation of social networks for
+mobile devices. By using the platform, no programming skill is needed to create the mobile applications. Moreover, the platform facilitates the sharing of the collected data in the cloud, thus allowing the formation of social networks for
 gathering and information sharing. The project was designed to support a heavy volume of users and data acquisition. It is based on free software and canbe accessed at: maritaca.unifesp.br.
 
 ------
