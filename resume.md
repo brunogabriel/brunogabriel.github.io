@@ -63,6 +63,7 @@ Development Native Mobile Applications according stakeholders requirements by us
 Native Mobile Applications development for Android and iOS platforms.
 
 Hightlights:
+
 * Android 
 	* Google Cloud Message (GCM), Push Notifications;
 	* In-App Purchase;
@@ -79,6 +80,8 @@ Hightlights:
 : Researcher
 
 Work in construction of Collective Intelligence concepts in web and mobile applications focused in [Maritaca Project](http://maritaca.unifesp.br).
+
+Hightlights:
 
 * Form Interpreter Engine;
 * Bar code processing;
