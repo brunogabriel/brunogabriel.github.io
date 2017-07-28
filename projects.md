@@ -1,7 +1,7 @@
 ---
 layout: project
-title: Projetos
+title: Projects
 permalink: /projects/
 ---
 
-Em breve
+Coming soon

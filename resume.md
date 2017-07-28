@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Resumo
+title: Resume
 permalink: /resume/
 ---
 
@@ -9,82 +9,99 @@ Bruno Gabriel dos Santos
 [bruno.gsantos89@gmail.com](mailto:bruno.gsantos89@gmail.com)
 
 
-Educação
+Education
 ---------
 
 2010-2013 - **Universidade Federal de São Paulo, UNIFESP**
-: BSc, Ciência da Computação
+: BSc, Computer Science
 
 
-Experiência Profissional
+Profissional Experiences
+----------
+01/2017 - current | Guiche Virtual
+
+Development and maintenance of an Android application focused on bus tickets sales to several companies in brazilian territory. The goal is create a nice platform using frameworks, agile methodologies and newest paradigms.
+
+Highlights:
+
+* Methodologies: Test-driven development (TDD) and Scrum;
+* Continuous Integration: Buddy Build;
+* Reactive Paradigm: Reactive X;
+* Emergent Android development concepts: Material design, RxAndroid, Instrumental Tests etc.;
+* A/B Tests and Deeplinking;
+* Firebase tools like performance monitoring, Firebase Cloud Messaging (FCM);
+* Some resources: Mockito, Retrofit, OKHttp, Picasso, Realm, Chuck Interceptor, UCrop, Eventbus, DynamicBox, ButterKnife etc.
+
 ----------
 
-09/2015 - atual | Simova Tecnologia e Serviços de Informática
-: Analista de Sistemas
+09/2015 - 01/2017 | Simova Tecnologia
+: System Analytst
 
-Análise e desenvolvimento de aplicações Web e Mobile com medições de esforços, utilizando frameworks e metodologias ágeis de desenvolvimento de software voltadas para ambientes corporativos. Com destaque:
+Development web and mobile aplications by using frameworks and agile methodologies.
 
-* Desenvolvimento de plataformas mobile nativas, Android e Windows Phone 8;
-* Desenvolvimento Web (fullstack);
-* Uso de ferramentas para testes de performance (Apache JMeter) e unitários (JUnit);
-* Integração e desenvolvimento de APIs Restful para as plataformas Java e Python (Bottle com Gevent e Django);
-* Bancos de dados relacionais e não relacionais: MySQL, MongoDB etc.;
-* Integração entre plataformas móveis e websockets (Node JS);
-* Geração de aplicações Launcher para Android com fins de bloqueio de recursos de smartphones rooteados e não rooteados;
-* Participações em eventos de Technight's, disseminando o conhecimento;
-* Experiências adicionais: manutenção em aplicações JSF Primefaces, uso de controle de versão SVN e deploy de aplicações em Cloud.
+Highlights:
 
+* Native mobile platforms: Android and Windows Phone;
+* Web development: fullstack, but focused in backend;
+* Tests;
+* Performance tools like JMeter;
+* Development and integration of Restful APIS in Java and Python (Bottle with Gevent and Django);
+* Databases: MySQL and MongoDB;
+* Websocket development platforms using NodeJS and Socket.IO;
+* Launcher applications to block some uses in smartphones rooted and not rooted.
 
 ----------
 01/2014 - atual | Freelancer
-: Desenvolvedor Mobile Freelancer
+: Mobile Application Development Freelance
 
-Análise, levantamento e estruturação da necessidade de clientes em modelo freelancer, para geração de aplicativos móveis nativos de acordo com a necessidade de cada cliente. Uso decorrente de bibliotecas e ferramentas utilizadas no mercado, tanto da parte de desenvolvimento em si, quanto de UI/UX.
-
-* Inclusa geração de APIs Restful para integração das aplicações.
+Development Native Mobile Applications according stakeholders requirements by using emergent frameworks, libraries etc.
 
 ----------
 03/2014 - 08/2015 | Phocus Interact
-: Analista e Desenvolvedor Mobile
+: Mobile Developer
 
-Desenvolvimento de aplicativos móveis (Apps) para as plataformas Android  e iOS utilizando recursos avançados e bibliotecas utilitárias, destaques:
+Native Mobile Applications development for Android and iOS platforms.
 
-* Android: 
-	* Google Cloud Message (GCM – Push Notifications);
-	* In-App Purchase (adição de elementos consumíveis e não consumíveis para compras);
+Hightlights:
+* Android 
+	* Google Cloud Message (GCM), Push Notifications;
+	* In-App Purchase;
 	* UI/UX;
-	* Uso contínuo de: Volley, Retrofit (incluindo RxJava), Picasso, Glide, Fresco Lib, ButterKnife, AsyncHttp Request, Bolts, AndEngine, GSON, SimpleXML Serialization, CardView, RecyclerView, ZBar, ZXing, bibliotecas gráficas, Mapas, Gráficos, GreenDAO, Realm etc.;
-	* Integrações com redes sociais.
+	* Some resources: Volley, Retrofit, RxJava, Picasso, Glide, Fresco Lib, ButterKnife, AsyncHttp Request, Bolts, AndEngine, GSON, SimpleXML Serialization, Material Elements support, ZBar, ZXing, Maps, Charts, GreenDAO, Realm etc.;
+	* Social Integration. SDKs.
 * iOS: 
-	* Integração com redes sociais, incluindo ferramentas presentes no Fabric (Analytics e Twitter SDK);
-	* Uso de: AFNetworking, iCarousel, MBProgressHUD, SDWebImage, Alamofire, Cocoapods etc.
-* Experiências adicionais: contribuição no desenvolvimento de APIs Restful voltadas para integração por aplicações móveis, controle de versionamento de código (GIT) etc.
+	* Social Integration SDKs;
+	* Cocoapods;
+	* Some resources: AFNetworking, iCarousel, MBProgressHUD, SDWebImage, Alamofire etc.
 
 ----------
 11/2012 - 10/2013 | Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)
-: Pesquisador Bolsista
+: Researcher
 
-Investigação de construção de Inteligência Coletiva a partir de aplicações para telefones celulares e smartphones (plataforma Android) com foco no [Projeto Maritaca](http://maritaca.unifesp.br).
+Work in construction of Collective Intelligence concepts in web and mobile applications focused in Maritaca Project [Maritaca](http://maritaca.unifesp.br).
 
-* Engine para interpretação de formuários gerados por conteúdo XML;
-* Processamento de códigos de barras (ZXing);
-* Uso de Google Maps;
-* Mongodb;
-* Apache Cassandra;
-* Participação de Congressos e submissão de artigos científicos.
+* Form Interpreter Engine;
+* Bar code processing;
+* Google Maps;
+* NoSQL databases: Mongodb and Apache Cassandra;
+* Participation in Scientific Congresses;
+* Submitted Scientific Articles.
 
 ----------
 12/2011 - 10/2012 | Conselho Nacional de Desenvolvimento Científico e Tecnológico
-: Pesquisador Bolsista
+: Researcher
 
-Desenvolvimento de aplicações móveis para a plataforma Android:
+Development of mobile applications in Android:
 
-* Uso de design patterns para interpretação de formulários dinâmicos;
+Hightlights:
+
+* Design patterns (GOF) to create dynamic applications by forms interpretation;
 * SQLite;
-* Manutenção em aplicações Java Web JSP.
+* JSP web applications;
+* Build processes: Apache Ant.
 
 
-Publicações
+Publications
 ----------
 
 [2014, Phuket. 28th edition of the International Conference on Information Networking (ICOIN)](http://ieeexplore.ieee.org/document/6799730/)
@@ -135,11 +152,11 @@ gathering and information sharing. The project was designed to support a heavy v
 ------
 [Fórum Internacional de Software Livre - FISL](https://www.youtube.com/watch?v=gZbJLiLY_w0)
 
-**Criação automática de aplicativos Android**
+**Automatic application generation**
 
-Projeto Maritaca, a qual contribui é apresentado para a banca do FISL.
+Maritaca Project selected for presentation in FISL.
 
-Cursos
+Courses
 ----------
 2015 | Season Consultoria e Treinamentos Avançados em Informática
 : Oracle Database 11g - PLSQL
@@ -147,21 +164,18 @@ Cursos
 
 
 2008 - 2009 | Centro de Educação Profissional Hélio Augusto de Souza (CEPHAS)
-: Técnico em Edificações
+: Building technician
 
 
 
 2009 | Tigre
-: Instalação Hidráulica Predial
+: Hydraulics concepts
 
 
-Academy School: Method Callan
-: Inglês 18 meses
 
-
-Informações adicionais
+Additional Informations
 ----------------------------------------
 
-* Atuação no desenvolvimento de cerca de 20 aplicativos móveis;
-* Monitor na disciplina de Cálculo Diferencial e Integral 2 recebendo bolsta de estudos na Universidade Federal de São Paulo (UNIFESP);
-* Contribuição para o enriquecimento do conhecimento em ambiente universitário sobre o uso de soluções de softwares livres, palestrando sobre tecnologias libres para o Programa de Educação em Software Livre (PESL) na Universidade Federal de São Paulo (UNIFESP);
+* Developed about 20 applications;
+* Scholarship in Differential and Integral Calculus;
+* Scholarship to promove opensource tools in university at Programa de Educação em Software Livre (PESL).

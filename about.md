@@ -1,21 +1,25 @@
 ---
 layout: page
-title: Sobre
+title: About
 permalink: /about/
 ---
 
-## Sobre
+## About
 
-Graduado em Bacharelado em Ciência da Computação pela Universidade Federal de São Paulo, UNIFESP, atuante do campo de Análise e Desenvolvimento de Sistemas, onde o foco se encontra em plataformas Mobile e Web.
+Bachelor in Computer Science at Universidade Federal de São Paulo (UNIFESP), working with sofware development focused in mobile and web applications.
 
-Aprovado no programa de Pós-Graduação em Engenharia Elétrica e Computação (PG/EEC) no Instituto Tecnológico de Aeronáutica, ITA (Master Degree).
+Approved in some master degrees programs like PG/EEG in Instituto Tecnológico de Aeronáutica (ITA).
 
-Conhecimentos, habilidades e objetivos relacionados ao desenvolvimento de software, principalmente em conceitos de programação orientada a objetos, metodologias ágeis (Scrum), desenvolvimento mobile, web e bases de dados não relacionais (NoSQL). 
+Knowledge in Object-oriented programming, agile methodologies and mobile and web development.
+Some technologies:
 
-Tecnologias com algum nível de atuação: Java Web e Mobile (Android nativo), Python (Bottle e Django frameworks), Socket IO (Node JS), Swift/Objective-C (iOs nativo), Windows Phone (8.+ e 10, C# nativo, usado em algumas ocasiões), SQL, Mongodb etc.
+* Java and Kotlin (Web and Mobile);
+* Python: Django and Bottle;
+* NodeJS;
+* Swift/Objective-C iOs development.
 
-
-### Hobbies: 
-
-Atualmente praticando corrida (#strava), torcedor do Corinthians (#VaiCorinthians), fã e acompanha regularmente NBA (Los Angeles Lakers #goLakers), animes (#OnePiece & #DragonBallSuper) e Gamer (adiciona no steam brunogog ou psn Bruno-Mcclane).
-
+### Hobbies
+* Running, using Strava App;
+* Corinthians and Los Angeles Lakers fan (soccer and basketball);
+* Animes: One Piece and Dragon Ball;
+* Gamer: PSN Bruno-Mcclane and Steam brunogog.
