@@ -78,7 +78,7 @@ Hightlights:
 11/2012 - 10/2013 | Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)
 : Researcher
 
-Work in construction of Collective Intelligence concepts in web and mobile applications focused in Maritaca Project [Maritaca](http://maritaca.unifesp.br).
+Work in construction of Collective Intelligence concepts in web and mobile applications focused in [Maritaca Project](http://maritaca.unifesp.br).
 
 * Form Interpreter Engine;
 * Bar code processing;
