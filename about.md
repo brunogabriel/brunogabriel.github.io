@@ -10,7 +10,8 @@ Bachelor in Computer Science at Universidade Federal de São Paulo (UNIFESP), wo
 
 Approved in some master degrees programs like PG/EEG in Instituto Tecnológico de Aeronáutica (ITA).
 
-Knowledge in Object-oriented programming, agile methodologies and mobile and web development.
+Knowledge in Object-oriented programming, agile methodologies and mobile/web development.
+
 Some technologies:
 
 * Java and Kotlin (Web and Mobile);

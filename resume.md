@@ -25,36 +25,36 @@ Development and maintenance of an Android application focused on bus tickets sal
 Highlights:
 
 * Methodologies: Test-driven development (TDD) and Scrum;
-* Continuous Integration: Buddy Build;
-* Reactive Paradigm: Reactive X;
+* Continuous Integration;
+* Reactive Paradigm;
 * Emergent Android development concepts: Material design, RxAndroid, Instrumental Tests etc.;
 * A/B Tests and Deeplinking;
 * Firebase tools like performance monitoring, Firebase Cloud Messaging (FCM);
-* Some resources: Mockito, Retrofit, OKHttp, Picasso, Realm, Chuck Interceptor, UCrop, Eventbus, DynamicBox, ButterKnife etc.
+* Some resources: Mockito, Retrofit, OKHttp, Picasso, Realm, Chuck Interceptor, UCrop, Eventbus, DynamicBox, ButterKnife, RxJava/Android etc.
 
 ----------
 
 09/2015 - 01/2017 | Simova Tecnologia
 : System Analytst
 
-Development web and mobile aplications by using frameworks and agile methodologies.
+Web and mobile aplications development by using frameworks and agile methodologies.
 
 Highlights:
 
 * Native mobile platforms: Android and Windows Phone;
-* Web development: fullstack, but focused in backend;
+* Web: fullstack, but focused in backend;
 * Tests;
 * Performance tools like JMeter;
 * Development and integration of Restful APIS in Java and Python (Bottle with Gevent and Django);
 * Databases: MySQL and MongoDB;
 * Websocket development platforms using NodeJS and Socket.IO;
-* Launcher applications to block some uses in smartphones rooted and not rooted.
+* Launcher applications to block some uses in smartphones: rooted and not rooted devices.
 
 ----------
 01/2014 - atual | Freelancer
 : Mobile Application Development Freelance
 
-Development Native Mobile Applications according stakeholders requirements by using emergent frameworks, libraries etc.
+Native mobile applications development according stakeholders requirements by using emergent frameworks, libraries etc.
 
 ----------
 03/2014 - 08/2015 | Phocus Interact
@@ -94,7 +94,7 @@ Hightlights:
 12/2011 - 10/2012 | Conselho Nacional de Desenvolvimento Científico e Tecnológico
 : Researcher
 
-Development of mobile applications in Android:
+Mobile applications development in Android platform:
 
 Hightlights:
 
