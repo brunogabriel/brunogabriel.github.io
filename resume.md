@@ -37,7 +37,7 @@ Highlights:
 09/2015 - 01/2017 | Simova Tecnologia
 : System Analytst
 
-Web and mobile aplications development by using frameworks and agile methodologies.
+Web and mobile applications development by using frameworks and agile methodologies.
 
 Highlights:
 
