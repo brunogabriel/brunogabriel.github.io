@@ -1,2 +1,3 @@
 # brunogabriel.github.io
-My CV in github platform.
+
+Hi, I'm Bruno, Software Developer :) see my resume htts://brunogabriel.github.io
