@@ -5,7 +5,7 @@ var app = new Vue({
         member: {
             name: "Bruno Gabriel dos Santos",
             email: "bruno.gsantos89@gmail.com",
-            resume: "<p>Hi I'm a bachelor in computer science that works in software engineering field with mobile and web development technologies.</p><p>I was approved in some master degree programs like in Instituto Tecnológico de Aeronáutica (ITA).</p><p>I've more experience using the following programming languages:</p>",
+            resume: "<p>Hi I'm a bachelor in computer science who works in software engineering field with mobile and web development technologies.</p><p>I've more experience using the following programming languages:</p>",
             me: "My hobbies includes street running, watch sports like football and basketball (Corinthians and Los Angeles Lakers fan), watch animes (Dragon Ball and One Piece) and play games."
         },
 
@@ -31,6 +31,11 @@ var app = new Vue({
                 name: "Universidade Federal de São Paulo (UNIFESP)",
                 period: "2010 - 2013",
                 degree: "BSC, Computer Science"
+            },
+            {
+                name: "Pontifícia Universidade Católica de Minas Gerais (PUCMINAS)",
+                period: "2018 - 2019",
+                degree: "Postgraduate, Software Engineering"
             }
         ],
 
@@ -39,8 +44,11 @@ var app = new Vue({
                 company: "Guichê Virtual",
                 title: "Mobile Tech Lead and Android Developer",
                 period: "12/2017 - current",
-                resume: "Help mobile team to improve knowlege by using nice technologies, design patterns and architecture patterns with quality to construct mobile applications focused in bus tickets sales (B2C and B2B). The technologies used by mobile team are Android, iOS and React Native. Activities: Technical Leadership, Scrum Master and Senior Android Developer.",
-                highlights: []
+                resume: "Helping mobile team to improve knowledge by using nice technologies and solving technical issues in mobile development. Development and maintenance of Android applications focused on bus tickets sales.",
+                highlights: [
+                    "Help team to decide architectures and solutions to improve team quality",
+                    "Android development using emergent technologies, architecture patterns and tools to improve productivity"
+                ]
             },
             {
                 company: "Guichê Virtual",
