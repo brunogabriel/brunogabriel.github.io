@@ -45,7 +45,7 @@
                 <h4>{{item.period}} | {{item.company}}</h4>
                 <h5>{{item.title}}</h5>
                 <p>{{item.resume}}</p>
-                <div v-if="item.highlights.length > 0">
+                <div v-if="item.highlights?.length > 0">
                     <p>Highlights:</p>
                     <ul>
                         <li v-for="highlight in item.highlights">{{highlight}}</li>

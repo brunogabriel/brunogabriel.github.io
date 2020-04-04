@@ -41,9 +41,14 @@ var app = new Vue({
 
         experiences: [
             {
+                company: "XP Inc",
+                title: "Senior Android Developer",
+                period: "03/2020 - current"
+            },
+            {
                 company: "Guichê Virtual",
-                title: "Mobile Tech Lead and Android Developer",
-                period: "12/2017 - current",
+                title: "Mobile Tech Lead and Senior Android Developer",
+                period: "12/2017 - 02/2020",
                 resume: "Helping mobile team to improve knowledge by using nice technologies and solving technical issues in mobile development. Development and maintenance of Android applications focused on bus tickets sales.",
                 highlights: [
                     "Help team to decide architectures and solutions to improve team quality",
