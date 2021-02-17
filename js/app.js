@@ -51,7 +51,7 @@ var app = new Vue({
                     "Reactive Paradigm",
                     "Nice libraries to improve productivity: Firebase Toolset, Retrofit, Dagger2, Room, Flow, etc.",
                     "Integrations with external tools",
-                    "Internal company libraries and SDKs development."
+                    "Internal company libraries and SDKs development"
                 ]
             },
             {
