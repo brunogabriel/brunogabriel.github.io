@@ -43,7 +43,16 @@ var app = new Vue({
             {
                 company: "XP Inc",
                 title: "Senior Android Developer",
-                period: "03/2020 - current"
+                period: "03/2020 - current",
+                resume: "Development and maintenance of Android applications, SDKs, Libraries, etc., focused on financial broker Apps.",
+                highlights: [
+                    "Clean architecture practices using MVP and MVVM architectures",
+                    "Modularization",
+                    "Reactive Paradigm",
+                    "Nice libraries to improve productivity: Firebase Toolset, Retrofit, Dagger2, Room, Flow, etc.",
+                    "Integrations with external tools",
+                    "Internal company libraries and SDKs development."
+                ]
             },
             {
                 company: "Guichê Virtual",
