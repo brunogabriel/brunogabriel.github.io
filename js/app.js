@@ -10,10 +10,10 @@ var app = new Vue({
         },
 
         socialNetworks: [
-            {
-                link: "https://steamcommunity.com/id/bruno_john_mcclane",
-                cssClass: "fa-steam"
-            },
+            // {
+            //     link: "https://steamcommunity.com/id/bruno_john_mcclane",
+            //     cssClass: "fa-steam"
+            // },
             {
                 link: "https://github.com/brunogabriel",
                 cssClass: "fa-github"
