@@ -39,7 +39,7 @@ var app = new Vue({
                 company: "XP Inc",
                 title: "Staff Software Engineer",
                 period: "09/2022 - current",
-                resume: "Help company in tech way to delivery high quality software"
+                resume: "Development, maintenance and contribute with engineers at company to delivery high quality software by using the best architectures, practices and community/enterprise tools."
             },
             {
                 company: "XP Inc",
