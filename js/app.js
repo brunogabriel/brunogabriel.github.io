@@ -5,15 +5,10 @@ var app = new Vue({
         member: {
             name: "Bruno Gabriel dos Santos",
             email: "bruno.gsantos89@gmail.com",
-            resume: "<p>Hi I'm a bachelor in computer science who works in software engineering field with mobile and web development technologies.</p><p>I've more experience using the following programming languages:</p>",
-            me: "My hobbies includes street running, watch sports like football and basketball (Corinthians and Los Angeles Lakers fan), watch animes (Dragon Ball and One Piece) and play games."
+            resume: "<p>Hi I'm a bachelor in computer science who works in software engineering field with mobile and web development technologies.</p><p>I've more experience using the following programming languages:</p>"
         },
 
         socialNetworks: [
-            // {
-            //     link: "https://steamcommunity.com/id/bruno_john_mcclane",
-            //     cssClass: "fa-steam"
-            // },
             {
                 link: "https://github.com/brunogabriel",
                 cssClass: "fa-github"
@@ -42,8 +37,14 @@ var app = new Vue({
         experiences: [
             {
                 company: "XP Inc",
+                title: "Staff Software Engineer",
+                period: "09/2022 - current",
+                resume: "Help company in tech way to delivery high quality software"
+            },
+            {
+                company: "XP Inc",
                 title: "Senior Android Developer",
-                period: "03/2020 - current",
+                period: "03/2020 - 08/2022",
                 resume: "Development and maintenance of Android applications, SDKs, Libraries, etc., focused on financial broker Apps.",
                 highlights: [
                     "Clean architecture practices using MVP and MVVM architectures",
