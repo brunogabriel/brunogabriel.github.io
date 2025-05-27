@@ -1,79 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" data-theme="dark">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Resume Bruno Gabriel</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bruno Gabriel | Staff Engineer</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Cabin:ital,wght@0,400;0,600;1,400&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+  <script src="scripts.js" defer></script>
 </head>
+
 <body>
-
-    <div class="container" id="app">
-        <div class="page-header">
-            <h1>{{member.name}} <small><a :href="'mailto:' + member.email">{{member.email}}</a></small></h1>
-        
-            <div class="social">
-                <a v-for="item in socialNetworks" :href="item.link">
-                    <i :class="'fa ' + item.cssClass + ' fa-2x' + ' pull-right'" aria-hidden="true"></i>
-                </a>
-            </div>
-
-            <div v-html="member.resume"></div>
-
-            <ul>
-                <li v-for="item in programmingLanguages">{{ item }}</li>
-            </ul>
-        
-        </div>
-
-        <div class="page-header">
-            <h3>Education</h3>
-            <div v-for="item in schools">
-                <h4>{{item.period}} - {{item.name}}</h4>
-                <p>{{item.degree}}</p>
-            </div>
-        </div>
-
-        <div class="page-header">
-            <h3>Profissional Experiences</h3>
-            <div v-for="(item, index) in experiences">
-                <h4>{{item.period}} | {{item.company}}</h4>
-                <h5>{{item.title}}</h5>
-                <p>{{item.resume}}</p>
-                <div v-if="item.highlights">
-                    <p>Highlights:</p>
-                    <ul>
-                        <li v-for="highlight in item.highlights">{{highlight}}</li>
-                    </ul>
-                </div>
-                <span v-if="index != Object.keys(experiences).length - 1"><br></span>
-            </div>
-        </div>
-
-        <div class="page-header">
-            <h3>Publications</h3>
-            <div v-for="(item, index) in publications">
-                <h4>{{item.title}}</h4>
-                <p><a :href="item.link">{{item.conference}}</a></p>
-                <p>Abstract: {{item.resume}}</p>
-                <span v-if="index != Object.keys(experiences).length - 1"><br></span>
-            </div>
-        </div>
-
-        <div class="page-header">
-            <h3>Extra informations</h3>
-            <ul>
-                <li v-for="item in extraInformations">{{item}}</div>
-            </ul>
-        </div>
-    </div>
-
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <script src="js/app.js"></script>
+  <div class="toolbar">
+    <a href="javascript:void(0);" onclick="toggleTheme()" class="toolbar-link" title="Alternar tema">
+      <i class="fa-solid fa-sun"></i>
+    </a>
+    <a href="mailto:bruno.gsantos89@gmail.com" class="toolbar-link" title="Email">
+      <i class="fas fa-envelope"></i>
+    </a>
+    <a href="https://medium.com/@username" class="toolbar-link" target="_blank" title="Medium">
+      <i class="fab fa-medium"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/username" class="toolbar-link" target="_blank" title="LinkedIn">
+      <i class="fab fa-linkedin"></i>
+    </a>
+    <a href="https://github.com/username" class="toolbar-link" target="_blank" title="GitHub">
+      <i class="fab fa-github"></i>
+    </a>
+  </div>
+  <div id="content">
+  </div>
 </body>
+
 </html>

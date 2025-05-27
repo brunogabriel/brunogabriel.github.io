@@ -1,1 +1,40 @@
+# Ignore macOS system files
 .DS_Store
+
+# Ignore node_modules if using npm/yarn for static site tools
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build output directories (common for static site generators)
+dist/
+build/
+public/
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore cache directories
+.cache/
+.cache-loader/
+
+# Ignore deployment files
+*.deploy
+
+# Ignore editor/project files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

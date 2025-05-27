@@ -1,0 +1,137 @@
+:root {
+  /* Moonlight Dark */
+  --dark-bg: #191724;
+  --dark-text: #e0def4;
+  --dark-accent: #9ccfd8;
+  --dark-highlight: #31748f;
+
+  /* Daylight Light */
+  --light-bg: #faf4ed;
+  --light-text: #575279;
+  --light-accent: #286983;
+  --light-highlight: #d7827e;
+}
+
+[data-theme="dark"] {
+  --bg: var(--dark-bg);
+  --text: var(--dark-text);
+  --accent: var(--dark-accent);
+  --highlight: var(--dark-highlight);
+}
+
+[data-theme="light"] {
+  --bg: var(--light-bg);
+  --text: var(--light-text);
+  --accent: var(--light-accent);
+  --highlight: var(--light-highlight);
+}
+
+body {
+  font-family: 'Cabin', sans-serif;
+  line-height: 1.8;
+  background-color: var(--bg);
+  color: var(--text);
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 3rem 2rem 2rem;
+  /* Adjust for the fixed toolbar */
+  padding-top: 3rem;
+  /* Ensures content does not overlap the fixed toolbar */
+  transition: all 0.3s ease;
+}
+
+code,
+pre {
+  font-family: 'Fira Code', monospace;
+  font-size: 0.9em;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+  color: var(--accent);
+  margin-top: 2rem;
+}
+
+h1 {
+  border-bottom: 2px solid var(--highlight);
+  padding-bottom: 0.5rem;
+}
+
+a {
+  color: var(--highlight);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--highlight);
+}
+
+a:hover {
+  border-bottom-style: solid;
+}
+
+.theme-toggle {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: var(--bg);
+  /* Removes the line */
+  color: var(--text);
+  cursor: pointer;
+  font-size: 1.2rem;
+  text-align: center;
+  padding: 0.5rem 0;
+  z-index: 1000;
+}
+
+.toolbar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  background: var(--bg);
+  padding: 0.5rem 1rem;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  /* Subtle shadow for better visibility */
+}
+
+.toolbar-link,
+.theme-toggle {
+  color: var(--text);
+  text-decoration: none;
+  font-size: 1.2rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: none;
+  background: none;
+}
+
+.toolbar-link:hover,
+.theme-toggle:hover {
+  color: var(--highlight);
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+  margin-left: 2rem;
+}
+
+strong {
+  color: var(--highlight);
+}
+
+@media (max-width: 600px) {
+  body {
+    padding: 1.5rem;
+  }
+}
