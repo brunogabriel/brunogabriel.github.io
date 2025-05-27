@@ -38,12 +38,6 @@ body {
   transition: all 0.3s ease;
 }
 
-code,
-pre {
-  font-family: 'Fira Code', monospace;
-  font-size: 0.9em;
-}
-
 h1,
 h2,
 h3 {
@@ -79,14 +73,12 @@ a:hover {
   padding: 1rem;
   z-index: 1000;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  /* Subtle shadow for better visibility */
 }
 
-.toolbar-link,
-.theme-toggle {
+.toolbar-link {
   color: var(--text);
   text-decoration: none;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -95,8 +87,7 @@ a:hover {
   background: none;
 }
 
-.toolbar-link:hover,
-.theme-toggle:hover {
+.toolbar-link:hover {
   color: var(--highlight);
 }
 

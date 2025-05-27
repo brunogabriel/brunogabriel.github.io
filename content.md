@@ -80,23 +80,20 @@ Web and mobile applications development by using frameworks and agile methodolog
 Native mobile applications development for Android and iOS platforms.
 
 **Highlights:**
-- Google Cloud Messaging (GCM) for push notifications
-- In App Purchases
-- Volley, Glide, Picasso, GreenDAO, AsyncHttp, ZBar, ZXing, Maps, etc.
+- Google Cloud Messaging (GCM), In App Purchases, Volley, Glide, GreenDAO, AsyncHttp, etc.
 - iOS development using Objective-C and Swift
 - AFNetworking, iCarousel, MBProgressHUD, SDWebImage, Alamofire, etc.
 
 ### Researcher - Fundação de Amparo à Pesquisa do Estado de São Paulo (FAPESP)
 **11/2012 - 10/2013**
 
-Collective Intelligence concepts in web and mobile applications, focusing on Maritaca Project, a form interpreter engine that generates mobile applications for mobile data collection.
+Development of mobile and web applications, focusing on Collective Intelligence concepts and mobile data collection. 
 
 **Highlights:**
-- Form interpreter engine
-- Barcode scanning
-- Google Maps
-- NoSQL database (MongoDB and Cassandra)
-- Scientific publications
+- Development of form interpreter engine
+- Barcode scanning, Google Maps integration
+- NoSQL database usage (MongoDB and Cassandra)
+- Scientific articles published
 
 ### Researcher - Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)
 **12/2011 - 10/2012**
@@ -104,26 +101,27 @@ Collective Intelligence concepts in web and mobile applications, focusing on Mar
 Development and maintenance of some Android applications.
 
 **Highlights:**
-- Apache Ant
-- SQLite
-- GOF patterns
+- Apache Ant, SQLite, Simple XML Serialization, etc.
+- Use of Design patterns (GOF)
 
 
 ## 📚 Publications
+
 ### Pipeline Architecture for Mobile Data Analysis
-**International Conference on Information Networking (ICOIN 2014)**  
-[Read paper](http://ieeexplore.ieee.org/document/6799730/)  
-*Presents a cloud architecture for collecting and analyzing mobile data*
+**[International Conference on Information Networking (ICOIN 2014), Phuket.](http://ieeexplore.ieee.org/document/6799730/)**
 
-### Empowering Mobile Users
-**Springer LNICST 2014**  
-[Read paper](https://link.springer.com/chapter/10.1007/978-3-319-05452-0_21)  
-*Cloud infrastructure for creating mobile data collection apps*
 
-### Other Publications
-- [Open Architecture for Mobile Data Collection](https://ieeexplore.ieee.org/document/6569083/)
-- [Projeto Maritaca](http://sbrc2013.unb.br/files/anais/salao-ferramentas/artigos/artigo-75.pdf)
-- [Ferramentas para Coleta Móvel de Dados](http://www.lbd.dcc.ufmg.br/colecoes/sbsi/2013/0013.pdf)
+### Empowering Mobile Users: Cloud infrastructure for creating mobile data collection apps
+**[5th International Conference, MobiCase 2013, Paris](https://link.springer.com/chapter/10.1007/978-3-319-05452-0_21)**  
+
+### Open Architecture for Mobile Data Collection
+**[14th IEEE International Conference on Mobile Data Management (2013), Milan](https://ieeexplore.ieee.org/document/6569083/?arnumber=6569083)**
+
+### Projeto Maritaca: Arquitetura e Infraestrutura para Coleta Móvel de Dados Usando Smartphones
+**[31º Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos](http://sbrc2013.unb.br/files/anais/salao-ferramentas/artigos/artigo-75.pdf)**
+
+### Ferramentas para Coleta Movel de Dados
+**[IX Simpósio Brasileiro de Sistemas de Informação (SBSI 2013)](http://www.lbd.dcc.ufmg.br/colecoes/sbsi/2013/0013.pdf)**
 
 ## 🏆 Additional
 - Scholarship in Differential and Integral Calculus
