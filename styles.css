@@ -34,9 +34,7 @@ body {
   max-width: 800px;
   margin: 0 auto;
   padding: 3rem 2rem 2rem;
-  /* Adjust for the fixed toolbar */
   padding-top: 3rem;
-  /* Ensures content does not overlap the fixed toolbar */
   transition: all 0.3s ease;
 }
 
@@ -69,21 +67,6 @@ a:hover {
   border-bottom-style: solid;
 }
 
-.theme-toggle {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background: var(--bg);
-  /* Removes the line */
-  color: var(--text);
-  cursor: pointer;
-  font-size: 1.2rem;
-  text-align: center;
-  padding: 0.5rem 0;
-  z-index: 1000;
-}
-
 .toolbar {
   position: fixed;
   top: 0;
@@ -93,7 +76,7 @@ a:hover {
   justify-content: flex-end;
   gap: 1rem;
   background: var(--bg);
-  padding: 0.5rem 1rem;
+  padding: 1rem;
   z-index: 1000;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   /* Subtle shadow for better visibility */

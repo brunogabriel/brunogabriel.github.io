@@ -10,6 +10,7 @@ Bachelor in computer science, mobile and web development technologies.
 - Swift/Object-c
 
 ## 🎓 Education
+
 ### Universidade Federal de São Paulo (UNIFESP)
 
 BSC, Computer Science **(2010 - 2013)**
@@ -26,8 +27,8 @@ Specializes in development, maintenance, and collaboration with engineers across
 
 **Highlights:**
 - Actively contributed to defining and implementing architectural changes in Mobile at company
-- Created comprehensive Flutter Learning Paths for mobile engineers
-- Developed strategic approach to integrating .NET
+- Created comprehensive Learning Paths for mobile engineers
+- Architected/implemented new patterns, internal tools, and SDKs
 - Provided technical leadership across mobile/backend teams
 
 ### Senior Android Engineer - XP Inc
@@ -36,10 +37,9 @@ Specializes in development, maintenance, and collaboration with engineers across
 Development and maintenance of Android applications, SDKs, Libraries for financial broker Apps.
 
 **Highlights:**
-- Clean architecture (MVP/MVVM)
-- Modularization
+- Architecture patterns: Clean Architecture, MVVM, MVP, Modularization, SOLID principles
 - Reactive Paradigm
-- Firebase, Retrofit, Dagger2, Room, Flow
+- Firebase, Retrofit, Dagger2, Koin, Room, Flow, Coroutines, RxJava
 - Internal tools and SDKs development
 
 ### Mobile Tech Lead - Buson (Guichê Virtual)
