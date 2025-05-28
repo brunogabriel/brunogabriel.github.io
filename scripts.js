@@ -29,8 +29,16 @@ function toggleTheme() {
   localStorage.setItem('theme', newTheme);
 }
 
+function loadToolbar() {
+  fetch('toolbar.html')
+    .then(response => response.text())
+    .then(html => document.getElementById('toolbar-container').innerHTML = html)
+    .catch(error => console.error('Error loading toolbar:', error));
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   loadMarkdown();
+  loadToolbar();
 
   if (localStorage.getItem('theme')) {
     document.documentElement.setAttribute(
