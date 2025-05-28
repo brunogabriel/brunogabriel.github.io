@@ -121,6 +121,12 @@ International Conference on Information Networking (ICOIN 2014), Phuket
 ### [Ferramentas para Coleta Móvel de Dados](http://www.lbd.dcc.ufmg.br/colecoes/sbsi/2013/0013.pdf)
 IX Simpósio Brasileiro de Sistemas de Informação (SBSI 2013)
 
+## 📜 Certifications
+
+### [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/pt-br/users/brunogabrieldossantos-4964/credentials/8e508ec0b9ae9033?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
+### [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/brunogabrieldossantos-4964/credentials/68ac465a77af6bd6?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+
 ## 🏆 Additional
 - Differential and Integral Calculus Scholarship (UNIFESP)
 - PAPMEM Mathematics Program Scholarship (UNIFESP/IMPA)
