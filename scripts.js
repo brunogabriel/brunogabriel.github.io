@@ -17,8 +17,9 @@ function renderMarkdown(md) {
     .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
     .replace(/\*(.*?)\*/g, '<em>$1</em>')
     .replace(/^- (.*$)/gm, '<li>$1</li>')
-    .replace(/\n\n/g, '</ul><ul>')
-    .replace(/<ul><\/ul>/g, '');
+    .replace(/\n{2,}/g, '</p><p>') // Quebra em parágrafos
+    .replace(/^(?!<h\d>|<li>|<ul>|<ol>|<p>|<blockquote>|<pre>|<code>)(.+)$/gm, '<p>$1</p>') // Adiciona <p> em linhas que não são títulos ou listas
+    .replace(/<\/p><p><\/p>/g, '<br><br>'); // Corrige múltiplos parágrafos vazios
 }
 
 function toggleTheme() {
