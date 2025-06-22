@@ -1,4 +1,4 @@
-# Bruno Gabriel dos Santos
+# Bruno Gabriel
 Computer Scientist specialized in mobile and web development technologies.
 
 ## 🛠 Technologies
